@@ -1,0 +1,8 @@
+{
+  "name": "RoboAcademy: Physical AI & Humanoid Robotics",
+  "description": "A comprehensive, AI-native textbook and learning platform for mastering the intersection of embodied intelligence, ROS 2, and humanoid robotics.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
